@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+swarm_checkpoints/
+*.bsp
+hip_main.dat
